@@ -1,4 +1,4 @@
-# 🏏 T20 World Cup Analytics
+# 🏏 T20 World Cup 2024 Analytics
 
 ### 📌 Project Overview
 
