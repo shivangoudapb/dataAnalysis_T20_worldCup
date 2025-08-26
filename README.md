@@ -9,7 +9,7 @@ Finally, I used the analysis to select the best playing XI based on performance.
 
 ## 🔍 Workflow
 **1. Data Extraction**
-  - Scraped match & player data from ESPN Sports using Bright Data.
+  - Scraped match & player data from ESPN Cricinfo using Bright Data.
   - Stored results in structured JSON files.
 
 **2. Data Cleaning and Transformation**
@@ -31,3 +31,15 @@ Finally, I used the analysis to select the best playing XI based on performance.
 - **Modeling & KPIs:** DAX in Power BI
 - **Visualization:** Power BI Dashboard
 
+
+## 📸 Dashboard Preview
+![powerHitters](dashboardScreenshots/powerHitters.png)
+![final11](dashboardScreenshots/final11.png)
+![playerDetails](dashboardScreenshots/onHover.png)
+
+
+## 📊 Key Insights
+- Identified top-performing players.
+- Compared team strengths & weaknesses.
+- Built parameters for dynamic what-if analysis.
+- Selected the final playing XI based on data-driven insights.
