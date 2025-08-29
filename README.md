@@ -25,6 +25,10 @@ Finally, I used the analysis to select the best playing XI based on performance.
   - Extracted insights to finalize the best XI players for the tournament.
 
 
+## Database Schema
+![schema](dashboardScreenshots/t20iSchema.png)
+
+
 ## 🛠️ Tech Stack
 - **Web Scraping:** Bright Data
 - **Data Processing:** Python (Pandas), Power Query
